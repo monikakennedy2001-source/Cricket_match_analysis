@@ -3,9 +3,6 @@ This project is a complete Data Engineering and Analytics pipeline that combines
 
 ## 📊 Dataset
 - **Source:** [Cricsheet](https://cricsheet.org/) (open-source ball-by-ball cricket data)  
-- **Files Used:**
-  - `matches.csv` → Match-level data (venue, teams, toss, result)  
-  - `deliveries.csv` → Ball-by-ball data (batsman, bowler, runs, wickets)  
 
 🛠️ Tech Stack
 - **Languages:** Python, SQL  
